@@ -51,6 +51,8 @@ while(FLAMES.length != 1){
 
 console.log("FLAMES", FLAMES);
 
+alert("Your relationship is " + FLAMES[0] );
+
 
 }
 
